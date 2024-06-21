@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBfMBALs8ge0iiJGiwVRqAXWR6DgZrcwTg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>587919313088</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterProblem</string>
+	<key>PROJECT_ID</key>
+	<string>guideme-1d9c7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guideme-1d9c7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:587919313088:ios:7e0b77b71747ed1c95c525</string>
+	<key>DATABASE_URL</key>
+	<string>https://guideme-1d9c7.firebaseio.com</string>
+</dict>
+</plist>
